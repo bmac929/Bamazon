@@ -1,0 +1,2 @@
+# Bamazon
+Bamazon serves as online store to purchase various items. Upon loading the app Bamazon will show all the items that are for sale and ask what is the id number associated with the item you want to purchase. You will enter the id number of the item you want to purchase then the user will only see that item along with its cost and quantity available. Bamazon will then ask how many you would like to purchase, and the user will enter in the amount they would like to purchase.
