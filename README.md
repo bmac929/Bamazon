@@ -13,3 +13,7 @@ Bamazon serves as online store to purchase various items. Upon loading the app, 
 
 If Bamazon does not have enough quantity to supply the user order, user will see this message.
 ![Error](/error.png)
+
+I used inquirer and mySQL to develop this app. 
+
+If you have any difficulties please reach out to me at bmac929@yahoo.com
