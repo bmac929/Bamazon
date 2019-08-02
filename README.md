@@ -6,5 +6,7 @@ Bamazon serves as online store to purchase various items. Upon loading the app, 
  ![Bamazon](/bamazon.png)
  
  2. Enter the id number of the item you want to purchase.
- ![Quantity](/purchase.png)
+ ![Purchase](/purchase.png)
  
+ 3. Enter the quantity you would like to purchase.
+ ![Quantity](/quantity.png)
