@@ -5,4 +5,6 @@ Bamazon serves as online store to purchase various items. Upon loading the app, 
  1. Enter 'node bamazon.js'
  ![Bamazon](/bamazon.png)
  
+ 2. Enter the id number of the item you want to purchase.
+ ![Quantity](/quantity.png)
  
