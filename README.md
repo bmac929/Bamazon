@@ -10,3 +10,6 @@ Bamazon serves as online store to purchase various items. Upon loading the app, 
  
  3. Enter the quantity you would like to purchase.
  ![Quantity](/quantity.png)
+
+If Bamazon does not have enough quantity to supply the user order, user will see this message.
+![Error](/error.png)
